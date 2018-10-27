@@ -1,3 +1,25 @@
+body {
+    background-attachment: fixed;
+    background-color: #2d55aa;
+	}
+
+div.main {
+	width: 80%;
+    padding: 10px;
+    background: #ffffff;
+	word-wrap: break-word;
+	margin: auto;
+	}
+
+div.title_text {
+	font-size: 20pt;
+	color: #ffffff;
+	border: 1;
+	width: 80%;
+    padding: 10px;
+	word-wrap: break-word;
+	}
+
 a {
     text-decoration: none;
 }
@@ -21,3 +43,8 @@ a:active {
 .green {
     color: green;
 }
+
+p.copyright {
+         text-align: center;
+         color: white;
+    }
