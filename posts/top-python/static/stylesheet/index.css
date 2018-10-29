@@ -19,7 +19,7 @@ div.title_text {
     padding: 10px;
 	word-wrap: break-word;
     margin: 0 auto;
-    display: block
+    display: block;
 	}
 
 a {
@@ -68,6 +68,8 @@ p.copyright {
         background-color: green;
         padding-left: 25px;
         min-width: 470px;
+        margin: 0 auto;
+        display: block;
 	}
 
 #navbar li {
