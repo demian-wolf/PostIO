@@ -88,3 +88,7 @@ p.copyright {
 #navbar ul li { float: none; }
 #navbar li:hover { background-color: #32BF72; }
 #navbar ul li:hover { background-color: #5CC41F; }
+
+span.underlined {
+    text-decoration: underline;
+}
