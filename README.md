@@ -1,2 +1,2 @@
 # PostIO
-My website that was used to store some stuff
+My website that was created to store some stuff
