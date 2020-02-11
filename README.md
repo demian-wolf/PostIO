@@ -1,2 +1,2 @@
 # PostIO
-Publish your articles and mini-websites with PostIO!
+My website that was used to store some stuff
